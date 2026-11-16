@@ -1,7 +1,7 @@
 [project]
-name = "pingpong-league"
+name = "ping-pong-league"
 version = "0.1.0"
-description = "Office Ping Pong League Web App"
+description = "A web app for running an office ping pong league."
 requires-python = ">=3.12"
 dependencies = [
     "django>=5.0",
