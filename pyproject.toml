@@ -3,13 +3,3 @@ name = "ping-pong-league"
 version = "0.1.0"
 description = "A web app for running an office ping pong league."
 requires-python = ">=3.12"
-dependencies = [
-    "django>=5.0",
-    "django-htmx>=1.17.0",
-]
-
-[project.optional-dependencies]
-dev = [
-    "pytest>=8.0.0",
-    "pytest-django>=4.9.0",
-]
